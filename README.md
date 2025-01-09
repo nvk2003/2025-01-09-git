@@ -1,4 +1,4 @@
-# 2025-01-09: git
+# 2025-01-09: Git
 
 - `git clone`: does a one-time download from github to your local computer
     - Make sure the directory you are cloning is not already a git repo
